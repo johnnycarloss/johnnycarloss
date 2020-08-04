@@ -1,7 +1,7 @@
 # Johnny Carlos
 
 ## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.:computer:
+Sou apaixonado por resolver problemas utilizando a programação.:computer::octocat:
 
  :rocket:  &nbsp; Atualmente estou estudando tecnologias como React, ReactJS e JavaScript
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
